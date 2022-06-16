@@ -5,7 +5,6 @@ print(random_int)
 #in integer it includes 1st and last number what we declared
 
 #random whole numbers
-
 random_float = random.random()
 print(random_float)
 #in float it doesn't include last number
