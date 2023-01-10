@@ -17,7 +17,6 @@ result = 4/2
 result /= 2
 print(result)
 
-
 #user score
 score = 0
 
@@ -27,7 +26,6 @@ print(score)
 
 score -= 1
 print(score)
-
 
 #F string
 # score = 0 

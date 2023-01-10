@@ -15,9 +15,7 @@ print(len(states_of_america))
 num_of_states = len(states_of_america)
 print(states_of_america[num_of_states-1])
 
-
 #list in list
-
 dirty_dozen = ["Strawberries", "Spinach", "Kale", "Nectarines", "Apples", "Grapes", "Peaches", "Cherries",
                "Pears", "Tomatoes", "Celery", "Potatoes"]
 
@@ -26,7 +24,6 @@ vegetables = ["Spinach", "Kale", "Tomatoes","Celery","Potatoes"]
 
 dirty_dozen = [fruits, vegetables]
 # print(dirty_dozen)
-
 print(dirty_dozen[1][1])
 print(dirty_dozen[0])
 print(dirty_dozen[1])

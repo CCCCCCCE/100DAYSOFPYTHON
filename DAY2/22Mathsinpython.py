@@ -11,7 +11,6 @@
 # + - #having same order of priority but it always follow left to right apporoch
 
 print(3 * 3 + 3 / 3 - 3)
-
 # how do we get result as 3.0 using above code
 print(3 + 3 * 3 / 3 - 3)
 #or using priority we can do it

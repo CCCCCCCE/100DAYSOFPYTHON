@@ -4,7 +4,6 @@ weight = float(input("enter your weight in kg: "))
 # 🚨 Don't change the code above 👆
 
 #Write your code below this line 👇
-
 BMI = round(weight /(height ** 2 ))
 print(BMI)
 
@@ -23,8 +22,3 @@ elif BMI >= 30 and BMI <= 35:
 # Above 35 they are clinically obese. 
 else:
   print(f"Your BMI is {BMI}, you are clinically obese.")
-
-
-
-
-

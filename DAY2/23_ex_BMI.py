@@ -10,5 +10,4 @@ new_height = float(height)
 
 BMI = new_weight / (new_height * new_height)
 result = round(BMI)
-# print(round(BMI))
 print(result)

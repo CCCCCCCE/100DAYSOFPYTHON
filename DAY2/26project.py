@@ -10,10 +10,13 @@
 
 #Greetings
 print("Welcome to the tip calculator!")
+
 #Input for the bill
 bill = float(input("What was the total bill? $"))
+
 #Input for the tip
 tip = float(input("How much tip would you like to give? 10, 12, or 15? "))
+
 #Input for how many peoples are splitting the bill
 split = int(input("How many people to split the bill? "))
 

@@ -2,8 +2,7 @@
 
 #for loop
 #we can perform each individual item.
-
- #loop allows us to excute same line of code multiple times
+#loop allows us to excute same line of code multiple times
 
 fruits = ["Apple", "Peach", "Pear"]
 for fruit in fruits:
